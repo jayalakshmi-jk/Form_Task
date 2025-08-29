@@ -1,6 +1,12 @@
 body{
     background-image: url(form.png);
     background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.hi{
+color: lightblue;
+    text-shadow:-2px -2px black;
 }
 
 ul{
@@ -32,7 +38,7 @@ textarea:focus{
 } 
 
 li a:hover {
-  background-color: #111;
+  background-color:lightblue;
 }
 .hea{
     color: lightblue;
@@ -42,4 +48,13 @@ li a:hover {
     margin-right: 500px;
     padding: 60px;
     background-color: white;  
+    border-radius: 6%;
+}
+.job{
+  height: 30px;
+  width: 275px;
+}
+.tarea{
+  height: 55px;
+  width: 275px;
 }

@@ -26,7 +26,7 @@ li a {
 }
 
 li a:hover {
-  background-color: #111;
+  background-color: lightblue;
 }
 .hea{
     color: lightblue;
@@ -42,6 +42,7 @@ h2{
     background-color: lightblue;
     margin-left: 500px;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 .form{
     margin-left: 400px;
